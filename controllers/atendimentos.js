@@ -8,5 +8,5 @@ module.exports = (app) => {
 
         Atendimento.adiciona(atendimento);
         res.send('Atendimento incluido!!!');
-    })
+    }) 
 }
